@@ -1,0 +1,51 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background: #4f04c8;;
+    background: -webkit-linear-gradient(#ffb153, #4f04c8);
+    background: -moz-linear-gradient(#ffb153, #4f04c8);
+    background: linear-gradient(#ffb153, #4f04c8);
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    color: #000000;
+    margin: 0 auto;
+    padding: 48px;
+    position: relative;
+    top: 350px;
+    font-size: 96px;
+    text-align: center;
+}
+form{
+    margin: 0 auto;
+    position: relative;
+    top: 350px;
+    left: 875px;
+
+}
+.weatherwidget-io{
+    position: static, relative ;
+    top: 625px;
+}
+
+.bookmarks{
+    position: relative;
+    top: 360px;
+    left: 950px;
+
+    
+}
+
+.fas-fa-envelope{
+    size: 900px;
+}
+
+#clock{
+    font-size: 48px;
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    top: -200px;
+    left: 800px;
+
+}
