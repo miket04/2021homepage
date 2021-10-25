@@ -30,22 +30,16 @@ form{
 }
 
 .bookmarks{
-    position: relative;
-    top: 360px;
-    left: 950px;
+   margin: 0 10px;
+   font-size: 36px;
+   line-height: 36px;
+    padding: 30px;
 
     
-}
-
-.fas-fa-envelope{
-    size: 900px;
 }
 
 #clock{
     font-size: 48px;
     font-family: 'Raleway', sans-serif;
-    position: relative;
-    top: -200px;
-    left: 800px;
-
+    position: absolute;
 }
